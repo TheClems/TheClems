@@ -9,13 +9,6 @@
 
 - 📫 Me contacter **contact@ctts.fr**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://discord.gg/712240462517501952" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-            alt="712240462517501952" height="30" width="35" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" text-decoration="none">
