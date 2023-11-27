@@ -1,8 +1,3 @@
-<style>
-    a{
-        text-decoration: none;
-    }
-</style>
 <h1 align="center">Bonjour 👋, je suis Clément TS</h1>
 <h3 align="center">Un curieux passionné d'informatique et de code.</h3>
 
@@ -26,7 +21,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" text-decoration="none">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" />
     </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;>
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="35" height="35" />
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
