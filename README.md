@@ -9,7 +9,7 @@
 
 - 📫 Me contacter **contact@ctts.fr**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages et outils :</h3>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" text-decoration="none">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35" />
