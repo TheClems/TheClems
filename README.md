@@ -1,11 +1,11 @@
 <h1 align="center">Bonjour 👋, je suis Clément TS</h1>
 <h3 align="center">Un curieux passionné d'informatique et de code.</h3>
 
+- 👨‍💻 Tous mes projets sont disponibles sur [https://ctts.fr/](https://ctts.fr/)
+
 - Je développe actuellement le site de Manon Thillay-Isnard. [MTI](https://mthillayisnard.fr/)
 
 - Je développe actuellement mon propre site. [CTTS](https://ctts.fr/)
-
-- 👨‍💻 Tous mes projets sont disponibles sur [https://ctts.fr/](https://ctts.fr/)
 
 - 📫 Me contacter **contact@ctts.fr**
 
