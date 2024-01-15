@@ -63,7 +63,7 @@
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="35" height="35" />
     </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="[https://cdn.worldvectorlogo.com/logos/adobe-xd.svg](https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg)" alt="xd" width="35" height="35" />
+        <img src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="xd" width="35" height="35" />
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="35" height="35" />
