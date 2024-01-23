@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis Clément TS</h1>
-<h3 align="center">Un curieux passionné d'informatique et de code.</h3>
+<h3 align="center">Un curieux passionné par l'informatique et le code.</h3>
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://ctts.fr/](https://ctts.fr/)
 
