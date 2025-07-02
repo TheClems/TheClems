@@ -3,9 +3,7 @@
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://ctts.fr/](https://ctts.fr/)
 
-- Je développe actuellement le site de Manon Thillay-Isnard. [MTI](https://mthillayisnard.fr/)
-
-- Je développe actuellement mon propre site. [CTTS](https://ctts.fr/)
+- Je développe actuellement avec @BenjaminIcart une plateforme visant à centraliser les plus grandes IA et proposer mon expertise sur le prompt enginering pour offrir des résultats de qualité supérieure. [CTTS](https://ctts.fr/)
 
 - 📫 Me contacter **contact@ctts.fr**
 
