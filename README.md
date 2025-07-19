@@ -1,8 +1,6 @@
 <h1 align="center">Bonjour 👋, je suis Clément TS</h1>
 <h3 align="center">Un curieux passionné par l'informatique et le code.</h3>
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://ctts.fr/](https://ctts.fr/)
-
 - Je développe actuellement avec @BenjaminIcart une plateforme visant à centraliser les plus grandes IA et proposer mon expertise sur le prompt enginering pour offrir des résultats de qualité supérieure. [OneTap AI](https://onetapai.ctts.fr/)
 
 - 📫 Me contacter **contact@ctts.fr**
